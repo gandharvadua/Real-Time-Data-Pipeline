@@ -1,0 +1,1 @@
+# Placeholder for kafka_producer_simulator.py

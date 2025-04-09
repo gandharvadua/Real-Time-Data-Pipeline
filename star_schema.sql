@@ -1,0 +1,1 @@
+# Placeholder for models/star_schema.sql
